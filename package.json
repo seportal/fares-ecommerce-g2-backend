@@ -2,6 +2,10 @@
   "name": "fares-ecommerce-g2-backend",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon scr/index.js"
+  },
   "repository": "https://github.com/seportal/fares-ecommerce-g2-backend.git",
   "author": "Selva Portal <selvaportal36@gmail.com>",
   "license": "MIT",
